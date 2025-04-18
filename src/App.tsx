@@ -112,11 +112,6 @@ function App() {
         </AnimatePresence>
       </div>
       
-      <footer className="mt-auto py-4 text-center text-sm text-gray-500 relative z-10">
-        <p>
-          Powered by OpenWeatherMap API • {new Date().getFullYear()}
-        </p>
-      </footer>
     </div>
   );
 }
